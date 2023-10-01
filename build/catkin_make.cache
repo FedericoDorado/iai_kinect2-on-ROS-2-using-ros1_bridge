@@ -1,0 +1,2 @@
+iai_kinect2_opencv4/iai_kinect2:iai_kinect2_opencv4/kinect2_bridge:iai_kinect2_opencv4/kinect2_calibration:iai_kinect2_opencv4/kinect2_registration:iai_kinect2_opencv4/kinect2_viewer:yolo_tc/darknet_ros/darknet_ros:yolo_tc/darknet_ros/darknet_ros_msgs:yolo_tc/gb_visual_detection_3d/darknet_ros_3d:yolo_tc/gb_visual_detection_3d_msgs
+-DCATKIN_DEVEL_PREFIX=/root/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/root/catkin_ws/install -G Unix Makefiles

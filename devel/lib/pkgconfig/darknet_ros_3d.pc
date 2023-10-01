@@ -1,0 +1,8 @@
+prefix=/root/catkin_ws/devel
+
+Name: darknet_ros_3d
+Description: Description of darknet_ros_3d
+Version: 0.0.0
+Cflags: -I/root/catkin_ws/src/yolo_tc/gb_visual_detection_3d/darknet_ros_3d/include
+Libs: -L${prefix}/lib -ldarknet_ros_3d
+Requires: 
