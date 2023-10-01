@@ -11,7 +11,7 @@ cd ~
 
 git clone https://github.com/OpenKinect/libfreenect2.git 
 
-#Compilar
+# Compilar
 cd libfreenect2 
 
 mkdir build && cd build 
@@ -23,7 +23,7 @@ make
 sudo make install
 
 
-#Otorgar permisos
+# Otorgar permisos
 sudo cp ../platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
 
 echo 'export LIBVA_DRIVER_NAME=dummy' >> ~/.bashrc
