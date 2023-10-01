@@ -1,1 +1,1 @@
-Este repositorio indica la instalación correcta y paso a paso de libfreenect2 para ubuntu y iai_kinect2 para ser utilizanda en un sistema de percepción indicado en el paquete https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation y 
+Este repositorio indica la instalación correcta y paso a paso de libfreenect2 para ubuntu y iai_kinect2 para ser utilizanda en un sistema de percepción indicado en el paquete https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation
