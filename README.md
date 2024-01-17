@@ -1,1 +1,3 @@
-Este repositorio indica la instalación correcta y paso a paso de libfreenect2 para ubuntu y iai_kinect2 para ser utilizanda en un sistema de percepción indicado en el paquete https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation
+### Use of Kinect v2 in ROS 2 for robotic perception
+
+This repository indicates the correct step-by-step installation of libfreenect2 for ubuntu and iai_kinect2 to be used in a perception system indicated in the package https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation.
